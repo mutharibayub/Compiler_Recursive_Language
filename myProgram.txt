@@ -1,0 +1,15 @@
+void HELLO()
+{HELLO();}
+
+void main()
+{
+	if(1>2)
+{
+print "TRUE";
+}
+else
+{
+	print "FALSE";
+}
+print "!!";
+}
